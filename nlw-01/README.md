@@ -1,12 +1,9 @@
 <div align="center">
-    <img src="https://res.cloudinary.com/dr05turuf/image/upload/v1591570062/rocketseat/rockeatseat_udxhgx.svg" width="300px"/>
-</div>
-<div align="center">
-    <img src="https://res.cloudinary.com/dr05turuf/image/upload/v1591570251/rocketseat/next-level-week/nextlevelweek_ins4v2.svg" width="150px"/>
+    <img src="https://res.cloudinary.com/dr05turuf/image/upload/v1591570268/rocketseat/next-level-week/ecoleta_mh9pws.svg" width="300px"/>
 </div>
 
 <h2 align="center">
-   NextLevelWeek
+   ♻️ Ecoleta ♻️
 </h2>
 
 <p align="center">

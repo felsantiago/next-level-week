@@ -1,8 +1,12 @@
-<h2 align="center">
+<div align="center">
+    <img src="https://res.cloudinary.com/dr05turuf/image/upload/v1591570062/rocketseat/rockeatseat_udxhgx.svg" width="300px"/>
+</div>
+<div align="center">
+    <img src="https://res.cloudinary.com/dr05turuf/image/upload/v1591570251/rocketseat/next-level-week/nextlevelweek_ins4v2.svg" width="150px"/>
+</div>
 
-  <img alt="Rocketseat" src="https://res.cloudinary.com/dr05turuf/image/upload/v1591130340/rocketseat_ixtkij.svg" width="200px" />
-  <br/>
-  🚀 Next Level Week Challenges
+<h2 align="center">
+   🚀 Next Level Week 🚀
 </h2>
 
 ## :mailbox_with_mail: Get in touch!
