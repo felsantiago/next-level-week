@@ -2,6 +2,8 @@
   "name": "next-level-week",
   "version": "1.0.0",
   "main": "index.js",
+  "repository": "https://github.com/felsantiago/next-level-week.git",
+  "author": "Felipe Santiago <fepuss@gmail.com>",
   "license": "MIT",
   "husky": {
     "hooks": {
