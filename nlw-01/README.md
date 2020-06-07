@@ -115,7 +115,7 @@ Expo will open a page in your browser, scan the QRcode on the page and wait for 
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/felsantiago/next-level-week/blob/master/nlw-01/server/LICENSE) for more information
+This project is under the MIT license. See the [LICENSE](https://github.com/felsantiago/next-level-week/blob/master/LICENSE) for more information
 
 ## :mailbox_with_mail: Get in touch!
 
