@@ -4,6 +4,9 @@
 
 <h2 align="center">
    ♻️ Ecoleta ♻️
+   </br>
+   </br>
+   <img src="https://res.cloudinary.com/dr05turuf/image/upload/v1591577795/rocketseat/next-level-week/banner_xfbdzk.png"/>
 </h2>
 
 <p align="center">
@@ -14,13 +17,14 @@
   <a href="#mailbox_with_mail-get-in-touch">Get in touch</a>
   </p>
 
-<p align="center">
-  
-</p>
-
 ## :computer: Project
 
 Ecoleta is an application that aims to help people find places that collect specific types of waste, encouraging people to recycle more.
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dr05turuf/image/upload/v1591577800/rocketseat/next-level-week/web_tlqfsm.svg"/>
+  <img src="https://res.cloudinary.com/dr05turuf/image/upload/v1591577797/rocketseat/next-level-week/home-mobile_pcpudo.png" width="250px"/>
+</p>
 
 ## :rocket: Built with
 
