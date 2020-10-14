@@ -6,23 +6,23 @@
 	:construction: NextLevelWeek 3.0 🚀 In progress...:construction:
 </h4>
 <p align="center">	
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/DanielObara/NLW-3.0">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/felsantiago/next-level-week">
 	
-  <a href="https://www.linkedin.com/in/danielobara/">
-    <img alt="Made by DanielObara" src="https://img.shields.io/badge/made%20by-DanielObara-%2304D361">
+  <a href="https://www.linkedin.com/in/felipe-santiago-a7706418a/">
+    <img alt="Made by felsantiago" src="https://img.shields.io/badge/made%20by-felsantiago-brightgreen">
   </a>
   
-  <a href="https://github.com/DanielObara/NLW-3.0/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/DanielObara/NLW-3.0">
+  <a href="https://github.com/felsantiago/next-level-week/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/felsantiago/next-level-week">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/DanielObara/NLW-3.0/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/DanielObara/NLW-3.0?style=social">
+   <a href="https://github.com/felsantiago/next-level-week/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/repo-size/felsantiago/next-level-week">
   </a>
 </p>
 <!-- <p align="center">
-<a href="https://insomnia.rest/run/?label=NLW%201.0%20-%20Ecoleta&uri=https%3A%2F%2Fraw.githubusercontent.com%2FDanielObara%2FNLW-1.0%2Fmaster%2Fbackend%2FInsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+<a href="https://insomnia.rest/.../.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 </p> -->
 <p align="center">
   <a href="#-nlw">Next Level Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -83,7 +83,7 @@ From your command line:
 
 <!-- ```bash
 # Clone this repository
-$ git clone https://github.com/DanielObara/NLW-3.0
+$ git clone https://github.com/felsantiago/next-level-week.git
 
 # Go into the repository
 $ cd NLW-3.0/backend
@@ -107,7 +107,7 @@ $ yarn dev
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/DanielObara/NLW-3.0
+$ git clone https://github.com/felsantiago/next-level-week.git
 
 # Go into the repository
 $ cd NLW-3.0/web
@@ -125,7 +125,7 @@ $ yarn start
 
 <!-- ```bash
 # Clone this repository
-$ git clone https://github.com/DanielObara/NLW-1.0
+$ git clone https://github.com/felsantiago/next-level-week.git
 
 # Go into the repository
 $ cd NLW-1.0/mobile
@@ -154,9 +154,9 @@ After merging your receipt request to done, you can delete a branch from yours.
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/DanielObara/NLW-3.0/blob/master/LICENSE) for details.
+This project is under the MIT license. See the [LICENSE](https://github.com/felsantiago/next-level-week/blob/master/LICENSE) for details.
 
-Made with ♥ by Daniel Obara :wave: [Get in touch!](https://www.linkedin.com/in/danielobara/)
+Made with ♥ by Felipe Santiago :wave: [Get in touch!](https://www.linkedin.com/in/felipe-santiago-a7706418a/)
 
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
