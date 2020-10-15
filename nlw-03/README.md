@@ -79,8 +79,6 @@ From your command line:
 
 ### Install API
 
-:construction: ...Under construction.. :construction:
-
 ```bash
 # Clone this repository
 $ git clone https://github.com/felsantiago/next-level-week.git
