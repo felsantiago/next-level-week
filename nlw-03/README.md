@@ -2,16 +2,16 @@
     <img alt="NextLevelWeek" title="#NextLevelWeek" src=".github/logo.svg" width="250px" />
 </h1>
 
-<h4 align="center"> 
+<h4 align="center">
 	:construction: NextLevelWeek 3.0 🚀 In progress...:construction:
 </h4>
-<p align="center">	
+<p align="center">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/felsantiago/next-level-week">
-	
+
   <a href="https://www.linkedin.com/in/felipe-santiago-a7706418a/">
     <img alt="Made by felsantiago" src="https://img.shields.io/badge/made%20by-felsantiago-brightgreen">
   </a>
-  
+
   <a href="https://github.com/felsantiago/next-level-week/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/felsantiago/next-level-week">
   </a>
@@ -42,14 +42,14 @@ An online and completely free event that will help you take the next step in you
 
 ### Days
 - Dia 1: Acelerando sua evolução 12/10 - :heavy_check_mark:
-- Dia 2: Olhando as oportunidades 13/10 - :construction:
+- Dia 2: Olhando as oportunidades 13/10 - :heavy_check_mark:
 - Dia 3: A escolha da Stack 14/10 - :construction:
 - Dia 4: Até 2 anos em 2 meses 15/10 - :construction:
 - Dia 5: Milha extra 16/10 - :construction:
 
 ## 💻 Project
 
-Happy is a project developed based on Children's Day. 
+Happy is a project developed based on Children's Day.
 That aims to connect people to orphanages that allow to make a children's day more special.
 
 <h1 align="center">
@@ -77,7 +77,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 From your command line:
 
-### Install API 
+### Install API
 
 :construction: ...Under construction.. :construction:
 
