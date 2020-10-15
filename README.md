@@ -27,11 +27,31 @@
   </a>
 </p>
 
+<p align="center">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/felsantiago/next-level-week">
+
+  <a href="https://www.linkedin.com/in/felipe-santiago-a7706418a/">
+    <img alt="Made by felsantiago" src="https://img.shields.io/badge/made%20by-felsantiago-brightgreen">
+  </a>
+
+  <a href="https://github.com/felsantiago/next-level-week/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/felsantiago/next-level-week">
+  </a>
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+   <a href="https://github.com/felsantiago/next-level-week/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/repo-size/felsantiago/next-level-week">
+  </a>
+</p>
+
 <p>Todas as edições do evento que aconteceram estará nesse repositório!</p>
 
 <h3>Edições do Evento:</h3>
 <a href="https://github.com/felsantiago/next-level-week/tree/master/nlw-01" target="_blank">
     <p>Edição 1.0 - Ecoleta</p>
+</a>
+<a href="https://github.com/felsantiago/next-level-week/tree/master/nlw-03" target="_blank">
+    <p>Edição 3.0 - Happy</p>
 </a>
 
 ---
