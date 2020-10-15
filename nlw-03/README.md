@@ -21,9 +21,9 @@
     <img alt="Stargazers" src="https://img.shields.io/github/repo-size/felsantiago/next-level-week">
   </a>
 </p>
-<!-- <p align="center">
-<a href="https://insomnia.rest/.../.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p> -->
+<p align="center">
+<a href="https://insomnia.rest/run/?label=happy-api&uri=https%3A%2F%2Fres.cloudinary.com%2Fdr05turuf%2Fraw%2Fupload%2Fv1602738194%2Frocketseat%2Fnext-level-week%2Fhappy%2FInsomnia_xcxlxj.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+</p>
 <p align="center">
   <a href="#-nlw">Next Level Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
