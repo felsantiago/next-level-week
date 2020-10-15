@@ -81,27 +81,24 @@ From your command line:
 
 :construction: ...Under construction.. :construction:
 
-<!-- ```bash
+```bash
 # Clone this repository
 $ git clone https://github.com/felsantiago/next-level-week.git
 
 # Go into the repository
-$ cd NLW-3.0/backend
+$ cd next-level-week/nlw-03/happy-api
 
 # Install dependencies
 $ yarn install
 
 # Run Migrates
-$ yarn knex:migrate
-
-# Run Seeds
-$ yarn knex:seed
+$ yarn typeorm migration:run
 
 # Start server
 $ yarn dev
 
 # running on port 3333
-``` -->
+```
 
 ### Install Front-end
 
@@ -110,7 +107,7 @@ $ yarn dev
 $ git clone https://github.com/felsantiago/next-level-week.git
 
 # Go into the repository
-$ cd NLW-3.0/web
+$ cd next-level-week/nlw-03/happy-ui
 
 # Install dependencies
 $ yarn install
@@ -128,7 +125,7 @@ $ yarn start
 $ git clone https://github.com/felsantiago/next-level-week.git
 
 # Go into the repository
-$ cd NLW-1.0/mobile
+$ cd next-level-week/nlw-03/happy-mobile
 
 # Install dependencies
 $ yarn install
